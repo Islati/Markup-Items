@@ -1,0 +1,4 @@
+name: TotalWarItems
+main: com.caved_in.TotalWarItems.TotalWarItems
+version: 2.0
+depend: [MaterialAPI]
